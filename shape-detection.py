@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/contests/manas-ai-october-2016/challenges/project-manas-ai-perception-challenge-1
 #Automate the Boring Task
 #Shape Detection
 flag = 0
